@@ -46,7 +46,13 @@
     "phone": "(385) 590-9835",
     "email": "info@arrowoflightpest.com",
     "website": "https://arrowoflightpest.com",
-    "hours": "Monday-Saturday 8:00 AM - 6:00 PM, Sunday Emergency Only"
+    "hours": "Monday-Saturday 8:00 AM - 6:00 PM, Sunday Emergency Only",
+    "address": {
+      "street": "225 S. 600 E. Unit E4",
+      "city": "Lehi",
+      "state": "UT",
+      "zip": "84043"
+    }
   },
   "services": {
     "wildlifeRemoval": [

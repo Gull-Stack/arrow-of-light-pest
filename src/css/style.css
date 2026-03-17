@@ -856,6 +856,10 @@ img {
   text-align: center;
 }
 
+.page-hero .hero-cta {
+  justify-content: center;
+}
+
 .page-hero-content h1 {
   margin-bottom: 1rem;
 }
@@ -909,6 +913,10 @@ img {
   background-color: var(--primary-dark);
   color: var(--white);
   text-align: center;
+}
+
+.cta-section .hero-cta {
+  justify-content: center;
 }
 
 .cta-section h2 {
