@@ -1,0 +1,102 @@
+{
+  "company": {
+    "name": "Arrow of Light Wildlife & Pest Solutions LLC",
+    "alternateName": "Arrow of Light Pest Solutions",
+    "founded": "2024",
+    "experienceSince": "1999",
+    "founderExperience": "25+ years in pest control, previously Bite Em Back Pest Control in Las Vegas",
+    "industry": "Pest Control Services",
+    "specialties": [
+      "Wildlife Removal",
+      "Pest Control",
+      "Rodent Control",
+      "Spider & Scorpion Treatment",
+      "Solar Panel Critter Guards",
+      "Attic Camera Monitoring"
+    ]
+  },
+  "owner": {
+    "name": "TW Trent English",
+    "experience": "25+ years",
+    "credentials": [
+      "Utah State Licensed Pest Control Operator",
+      "Wildlife Control Certified",
+      "35+ TV News Appearances"
+    ],
+    "previousCompany": "Bite Em Back Pest Control (Las Vegas)"
+  },
+  "serviceArea": {
+    "primary": "Utah County, Utah",
+    "cities": [
+      "Provo",
+      "Orem",
+      "American Fork",
+      "Lehi",
+      "Spanish Fork",
+      "Springville",
+      "Payson",
+      "Pleasant Grove",
+      "Lindon",
+      "Saratoga Springs",
+      "Eagle Mountain",
+      "Vineyard"
+    ]
+  },
+  "contact": {
+    "phone": "(385) 590-9835",
+    "email": "info@arrowoflightpest.com",
+    "website": "https://arrowoflightpest.com",
+    "hours": "Monday-Saturday 8:00 AM - 6:00 PM, Sunday Emergency Only"
+  },
+  "services": {
+    "wildlifeRemoval": [
+      "Raccoon Trapping & Removal",
+      "Bat Exclusion, Cleanup & Removal",
+      "Squirrel Removal & Prevention",
+      "Skunk Removal & Barrier Protection",
+      "Gopher, Mole & Vole Removal",
+      "Invasive Bird Removal & Prevention"
+    ],
+    "pestControl": [
+      "Mice & Rat Trapping & Barrier Protection",
+      "Scorpion & Spider Eradication",
+      "Flying Insect Elimination",
+      "Stinging Insect Removal (Wasps & Bees)",
+      "General Insect Pest Control",
+      "Bed Bug Inspections & Eradication",
+      "Carpet Beetle Elimination",
+      "Termite Inspections & Treatments"
+    ],
+    "specialized": [
+      "Attic Camera Monitoring",
+      "Solar Panel Critter Guard Installation",
+      "Customized Recurring Programs",
+      "Home & Business Disinfection",
+      "Third-Party Quality Assurance Inspections"
+    ]
+  },
+  "differentiators": [
+    "25+ years experience",
+    "35+ TV news appearances",
+    "FREE full home & property inspections",
+    "Humane & eco-friendly methods",
+    "Third-party quality assurance inspections",
+    "Licensed & insured",
+    "Same-day emergency service",
+    "Solar panel critter guard specialists"
+  ],
+  "motto": "Eliminate. Defend. Protect.",
+  "mission": "Removing what blocks your light",
+  "approach": "Faith-driven, humane pest control",
+  "mediaAppearances": [
+    "ABC4 Utah Good4Utah",
+    "KTNV Channel 13 Las Vegas",
+    "ABC13 Las Vegas"
+  ],
+  "certifications": [
+    "Utah State Licensed",
+    "Comprehensive Insurance",
+    "Wildlife Control Certified",
+    "Continuing Education Compliant"
+  ]
+}

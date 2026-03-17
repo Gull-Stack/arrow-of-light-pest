@@ -1,0 +1,25 @@
+{
+  "name": "arrow-of-light-pest-solutions",
+  "version": "1.0.0",
+  "description": "Professional wildlife and pest control services in Utah County",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf _site"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vercel/vercel.git"
+  },
+  "keywords": [
+    "pest-control",
+    "wildlife-removal",
+    "utah-county",
+    "pest-solutions"
+  ],
+  "author": "Arrow of Light Wildlife & Pest Solutions",
+  "license": "MIT"
+}
